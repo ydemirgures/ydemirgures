@@ -1,129 +1,147 @@
 <div align="center">
 
-# 👋 Hi, I'm Yunus Demirgüreş
-
-### Web Designer • Frontend Developer • SEO Specialist
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1500&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+Modern+Websites;Frontend+Developer;SEO+Specialist;AI-Assisted+Developer;Always+Learning+New+Technologies" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:38BDF8&text=YUNUS%20DEMİRGÜREŞ&fontColor=ffffff&fontSize=46&fontAlignY=40&desc=Web%20Designer%20•%20SEO%20Specialist%20•%20Frontend%20Developer&descAlignY=60&animation=fadeIn"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Experiences.;Responsive+Web+Designer.;Technical+SEO+Specialist.;AI-Assisted+Developer.;Always+Learning+Something+New."/>
+
+<br>
+
+<a href="https://github.com/ydemirgures">
+<img src="https://img.shields.io/github/followers/ydemirgures?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+
 <a href="https://tr.linkedin.com/in/yunus-demirgüreş-09aa7041a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ydemirgures@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/ydemirgures">
-<img src="https://img.shields.io/github/followers/ydemirgures?style=for-the-badge">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=ydemirgures&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ydemirgures&style=for-the-badge&color=2563eb"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👋 About Me
 
-I'm a **Web Designer & SEO Specialist** passionate about creating modern digital experiences.
+I'm **Yunus Demirgüreş**, a **Web Designer** and **SEO Specialist** passionate about creating modern, responsive, and high-performance websites.
 
-I enjoy combining **clean UI**, **responsive design**, **technical SEO**, and **AI-powered development** to build websites that are fast, user-friendly, and optimized for search engines.
+My focus is building clean user interfaces, improving website visibility through **Technical SEO**, and accelerating development with **AI-assisted workflows**.
 
-Currently focused on improving my frontend development skills while leveraging AI tools to increase productivity and deliver high-quality digital solutions.
+I enjoy transforming ideas into fast, accessible, and business-oriented digital experiences.
 
 ---
 
-## 🚀 Professional Experience
+# 💼 Professional Experience
 
-### BISASOFT Digital Advertising Agency
+## BISASOFT Digital Advertising Agency
+
 **Web Designer & SEO Specialist**
 
-- Responsive Website Development
-- HTML / CSS / JavaScript
-- Technical SEO
-- On-Page SEO
-- Website Optimization
-- Digital Marketing
-- Performance Optimization
-- AI-assisted Development
+**April 2026 – July 2026**
+
+- Designed responsive corporate websites
+- Built interfaces using HTML, CSS and JavaScript
+- Performed Technical SEO improvements
+- Implemented On-Page SEO
+- Improved page performance
+- Enhanced accessibility and responsiveness
+- Assisted Digital Marketing campaigns
+- Used AI tools to increase development productivity
 
 ---
 
-### Tuborg (Contractor)
-
-**Retail Merchandiser**
-
-- Product Placement
-- Inventory Management
-- Store Coordination
-- Merchandising
-- Customer Communication
-
----
-
-### Eylül Kitabevi
+## Eylül Kitabevi
 
 **Sales Consultant**
 
-- Customer Support
-- Sales
-- Inventory Management
-- Product Organization
+**September 2025 – March 2026**
+
+- Assisted customers
+- Managed inventory
+- Organized products
+- Processed sales transactions
+- Maintained customer satisfaction
+
+---
+
+## Tuborg (Contractor)
+
+**Retail Merchandiser**
+
+**December 2025 – April 2026**
+
+- Managed product placement
+- Organized store shelves
+- Maintained merchandising standards
+- Coordinated inventory
+- Improved product visibility
+
+---
+
+# 🚀 Specializations
+
+- Responsive Web Design
+- Frontend Development
+- Technical SEO
+- On-Page SEO
+- Website Performance Optimization
+- Digital Marketing
+- UI / UX Principles
+- AI-Assisted Development
 
 ---
 
 # 💻 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma,ps"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode"/>
 
-<br><br>
+</div>
 
-<img src="https://skillicons.dev/icons?i=linux,windows,markdown"/>
+<br>
 
-</p>
-
----
-
-# 🤖 AI Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Claude_AI-8B5CF6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Canva_AI-00C4CC?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white"/>
-
-</p>
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **Programming** | Python *(Intermediate)* |
+| **Version Control** | Git, GitHub |
+| **Editor** | Visual Studio Code |
+| **SEO** | Technical SEO, On-Page SEO |
+| **AI Tools** | ChatGPT, Claude AI, Canva AI |
+| **CMS** | Strapi |
 
 ---
 
-# 📚 Currently Learning
+# 📚 Currently Improving
 
 - Advanced JavaScript
-- Modern Frontend Development
-- React
-- Next.js
-- TypeScript
-- Python
-- Technical SEO
-- AI Automation
+- Web Performance
+- Accessibility
+- SEO Strategy
+- AI-assisted Development
+- Modern UI Design
 
 ---
 
-# 🏆 Certifications
+# 🎯 Career Goal
 
-- QT Funded – Phase 1 Completion
+My goal is to build modern web applications that combine excellent user experience, technical performance, and effective SEO strategies while continuously improving my development skills and contributing to impactful digital products.
 
 ---
 
+<div align="center">
+
+### "Design. Optimize. Build."
+
+</div>
+
+---
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -143,17 +161,8 @@ Currently focused on improving my frontend development skills while leveraging A
 </div>
 
 ---
-# 🏅 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ydemirgures&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -163,45 +172,53 @@ Currently focused on improving my frontend development skills while leveraging A
 
 ---
 
-# 🎯 2026 Goals
+# 🏆 GitHub Achievements
 
-- 🚀 Build high-quality web applications
-- 💼 Work as a Professional Frontend Developer
-- 🌐 Master Technical SEO
-- 🤖 Build AI-powered web solutions
-- ⚡ Learn React & Next.js
-- 🐍 Improve Python skills
-- 📚 Contribute to Open Source
-- 💻 Publish production-ready portfolio projects
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ydemirgures&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4"/>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
+> As I continue growing as a developer, these repositories showcase my skills in web development, responsive design, SEO, and AI-assisted workflows.
+
 <table>
+
 <tr>
 
 <td width="50%">
 
-### 🌐 Corporate Website
+<h3 align="center">🌐 Corporate Website</h3>
 
-Modern responsive business website built using HTML, CSS and JavaScript.
+<p align="center">
 
-**Tech**
+Modern business website focused on responsive design, accessibility, and performance.
 
-HTML • CSS • JavaScript • SEO
+<b>Tech</b>
+
+HTML • CSS • JavaScript
+
+</p>
 
 </td>
 
 <td width="50%">
 
-### 🛒 E-Commerce UI
+<h3 align="center">📱 Responsive Landing Page</h3>
 
-Responsive shopping interface focused on performance and user experience.
+<p align="center">
 
-**Tech**
+Clean and modern landing page optimized for all devices.
+
+<b>Tech</b>
 
 HTML • CSS • JavaScript
+
+</p>
 
 </td>
 
@@ -211,33 +228,43 @@ HTML • CSS • JavaScript
 
 <td width="50%">
 
-### 📊 SEO Optimization Toolkit
+<h3 align="center">🔍 SEO Optimization</h3>
 
-Collection of SEO improvements and optimization techniques.
+<p align="center">
 
-**Focus**
+Technical SEO improvements, page optimization, metadata, and search engine visibility.
+
+<b>Focus</b>
 
 Technical SEO
 
-Google Search Console
-
 Performance
+
+Accessibility
+
+</p>
 
 </td>
 
 <td width="50%">
 
-### 🤖 AI Web Assistant
+<h3 align="center">🤖 AI Workflow</h3>
 
-Experiments integrating AI into web development workflows.
+<p align="center">
 
-**Tools**
+Experiments using AI tools to speed up web development and content generation.
+
+<b>Tools</b>
 
 ChatGPT
 
 Claude AI
 
 Canva AI
+
+Strapi
+
+</p>
 
 </td>
 
@@ -247,48 +274,68 @@ Canva AI
 
 ---
 
-# ⚙️ Development Workflow
+# 🎯 2026 Goals
+
+✅ Build production-ready websites
+
+⬜ Publish a professional portfolio
+
+⬜ Contribute to Open Source
+
+⬜ Master Technical SEO
+
+⬜ Improve Python skills
+
+⬜ Learn modern frontend architecture
+
+⬜ Build AI-powered web applications
+
+⬜ Create reusable UI components
+
+---
+
+# ⚡ Workflow
 
 ```text
 Idea
-   │
-   ▼
-Research
-   │
-   ▼
-UI / UX
-   │
-   ▼
+ │
+ ▼
+Planning
+ │
+ ▼
+Wireframe
+ │
+ ▼
 Development
-   │
-   ▼
+ │
+ ▼
 SEO Optimization
-   │
-   ▼
+ │
+ ▼
 Testing
-   │
-   ▼
+ │
+ ▼
 Deployment
 ```
 
 ---
 
-# 💡 Core Skills
+# 💡 Core Strengths
 
 ```text
-██████████████████████░░ HTML
+███████████████████████  HTML
 
-█████████████████████░░░ CSS
+██████████████████████   CSS
 
-████████████████████░░░░ JavaScript
+█████████████████████    JavaScript
 
-██████████████████░░░░░░ SEO
+███████████████████      Technical SEO
 
-█████████████████░░░░░░░ Responsive Design
+██████████████████       Responsive Design
 
-███████████████░░░░░░░░░ Python
+████████████████         Python
 
-██████████████████░░░░░░ AI-Assisted Development
+███████████████████      AI-Assisted Development
 ```
 
 ---
@@ -296,6 +343,10 @@ Deployment
 # 🌍 Connect With Me
 
 <div align="center">
+
+<a href="https://github.com/ydemirgures">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 <a href="https://tr.linkedin.com/in/yunus-demirgüreş-09aa7041a">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -305,26 +356,89 @@ Deployment
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/ydemirgures">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
 </div>
+
+---
+# 🌱 Current Focus
+
+- 🌐 Building responsive business websites
+- 🔍 Improving technical SEO knowledge
+- 🤖 Using AI tools to increase productivity
+- 💻 Writing clean and maintainable code
+- 📚 Continuously learning modern web technologies
+
+---
+
+# 📌 Featured Repositories
+
+> Replace the links below with your real repositories after creating them.
+
+| Repository | Description |
+|------------|-------------|
+| 🌐 Portfolio Website | Personal portfolio showcasing my work and skills. |
+| 💼 Business Website | Responsive corporate website project. |
+| 🎨 Landing Page | Modern landing page with responsive design. |
+| 🔍 SEO Toolkit | SEO optimization examples and resources. |
+| 🤖 AI Experiments | Projects using ChatGPT, Claude AI and AI-assisted workflows. |
+| ⚙️ Strapi CMS | CMS-based web development experiments. |
+
+---
+
+# 📈 Development Philosophy
+
+```text
+Think
+   │
+   ▼
+Design
+   │
+   ▼
+Build
+   │
+   ▼
+Optimize
+   │
+   ▼
+Test
+   │
+   ▼
+Improve
+```
 
 ---
 
 # 💬 Quote
 
-> *"Great products are built through continuous learning, thoughtful design, and attention to detail."*
+> "Great websites are not only beautiful—they are fast, accessible, and built with purpose."
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/ydemirgures">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://tr.linkedin.com/in/yunus-demirgüreş-09aa7041a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ydemirgures@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile ⭐
 
-If you like my projects, consider giving them a ⭐
+*"Always learning. Always improving."*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:38BDF8"/>
